@@ -1,0 +1,1 @@
+High CPU detected: 100.0%
