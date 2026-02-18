@@ -39,7 +39,7 @@ This project demonstrates how such a system can be built using Python.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 
 
