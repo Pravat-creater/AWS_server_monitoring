@@ -7,7 +7,7 @@ The same solution is designed to run both locally and on AWS EC2, making it clou
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 In real production environments, servers must be monitored continuously to ensure high availability.  
 Manual monitoring is inefficient, so organizations rely on automated systems to detect issues, raise incidents, and maintain logs for audit and compliance.
@@ -16,7 +16,7 @@ This project demonstrates how such a system can be built using Python.
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
 - Continuous CPU monitoring using configurable thresholds  
 - Automatic incident generation when CPU crosses the threshold  
@@ -27,7 +27,7 @@ This project demonstrates how such a system can be built using Python.
 
 ---
 
-## 🧠 How the System Works
+##  How the System Works
 
 1. The monitoring script continuously checks CPU usage.
 2. A threshold (default: 20%) is defined for alerting.
@@ -44,7 +44,7 @@ This project demonstrates how such a system can be built using Python.
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - Flask
@@ -54,7 +54,7 @@ This project demonstrates how such a system can be built using Python.
 
 ---
 
-## ☁️ AWS Cloud Deployment (Overview)
+##  AWS Cloud Deployment (Overview)
 
 This application can be deployed on an AWS EC2 instance:
 
@@ -67,7 +67,7 @@ This mirrors real-world cloud-based monitoring solutions.
 
 ---
 
-## 🎯 Use Case Relevance
+##  Use Case Relevance
 
 This project demonstrates hands-on experience with:
 
@@ -79,7 +79,7 @@ This project demonstrates hands-on experience with:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Email or Slack alerts for incidents  
 - Disk and memory monitoring  
@@ -89,13 +89,9 @@ This project demonstrates hands-on experience with:
 
 ---
 
-## 👤 Author
+##  Author
 
 Pravat  
 Aspiring Cloud / IT Operations Engineer
 
 ---
-
-## 📌 Note
-
-This project is intended for learning and interview demonstration purposes and simulates real production monitoring behavior.
